@@ -7,7 +7,7 @@
     });
 </script>
 
-<nav class="flex items-center p-10">
+<nav class="flex items-center p-6 rounded-full m-4">
     <div class="h-full w-1/4 flex justify-center">
         <span class="font-medium text-2xl text-nowrap">Milan E.</span>
     </div>
